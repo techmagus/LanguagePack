@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AnySoftKeyboard - change_me Language Pack</string>
-    <string name="keyboard_name">change_me keyboard</string>
-    <string name="dictionary_name">change_me</string>
+    <string name="app_name">AnySoftKeyboard - Filipino Language Pack</string>
+    <string name="layout_name">Filipino Keyboard</string>
+    <string name="layout_desc">Filipino keyboard layout by techmagus™</string>
+    <string name="dict_name">Filipino dictionary</string>
+    <string name="dict_desc">Filipino dictionary based on online resources</string>
+    <string name="layout_name_qwerty">Filipino (QWERTY) Keyboard</string>
+    <string name="layout_desc_qwerty">Filipino (QWERTY) keyboard layout by techmagus™</string>
+    <string name="layout_name_devorak">Filipino (Devorak) Keyboard</string>
+    <string name="layout_desc_devorak">Filipino (Devorak) keyboard layout by techmagus™</string>
+    <string name="layout_name_colemak">Filipino (Colemak) Keyboard</string>
+    <string name="layout_desc_colemak">Filipino (Colemak) keyboard layout by techmagus™</string>
 </resources>
