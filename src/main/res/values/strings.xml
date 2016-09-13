@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AnySoftKeyboard - change_me Language Pack</string>
-    <string name="keyboard_name">change_me keyboard</string>
-    <string name="dictionary_name">change_me</string>
+    <string name="app_name">AnySoftKeyboard - Tagalog (Baybayin) Language Pack</string>
+    <string name="layout_name">Tagalog (Baybayin) Keyboard</string>
+    <string name="layout_desc">Tagalog (Baybayin) layout by techmagus™</string>
+    <string name="dict_name">Tagalog (Baybayin) dictionary</string>
+    <string name="dict_desc">Tagalog (Baybayin) dictionary by techmagus.ninja</string>
 </resources>
